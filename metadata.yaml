@@ -1,0 +1,5 @@
+homepage: "https://adpage.io"
+documentation: "https://github.com/AdPageGroup/copernica-server-tag"
+versions:
+  - sha: ed419c67f361c451725a1a6c39f44f9102062e32
+    changeNotes: Initial release.
